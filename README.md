@@ -5,7 +5,7 @@ After several hours of searching and examining different git-hub projects, I was
 So I started to learn about spring authentications and ask some of my friends to help. Finally I managed to write the current project to do what I wanted. I hope this project can help others to do the same job I wanted.
 
 ## Acknowledgements
-I want to appreciate Mohamad Zeinali and Mohsen Esmaeili who were kind enough to help me to write this project.
+I want to appreciate [Mohamad Zeinali](https://github.com/madz0) and [Mohsen Esmaeili](https://github.com/mosssi) who were kind enough to help me to write this project.
 
 ## How to use?
 You can use Linux curl command or Postman application to create REST requests to simply login to system and do some CRUD operations on a data model named Task
